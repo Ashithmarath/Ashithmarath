@@ -1,7 +1,5 @@
-### Hi there...Here is what i'm working on... 👋
+### Hi there...Here is about me... 👋
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...'Not working'
 - 🌱 I’m currently learning ...Artificial brain AKA Artificial neural network
